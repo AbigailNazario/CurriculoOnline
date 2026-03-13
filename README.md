@@ -7,7 +7,7 @@ O objetivo foi criar um currículo online utilizando HTML e CSS, aplicando conce
 
 Desenvolver uma página web que apresente um currículo profissional de forma clara e organizada, utilizando apenas HTML para estrutura e CSS para estilização.
 
-**Tecnologias Utilizadas**
+**Tecnologias**
 
 HTML5
 

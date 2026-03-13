@@ -52,6 +52,3 @@ Estudante de Análise e Desenvolvimento de Sistemas – SENAC
 Técnica em Informática – IFPE
 ____________________________________________________________________________________________________
 Projeto desenvolvido para fins educacionais.
-Técnica em Informática – IFPE
-
-Projeto desenvolvido para fins educacionais.
